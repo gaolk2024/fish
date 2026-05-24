@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/gitee/:path*",
+      "destination": "https://raw.giteeusercontent.com/gaolk/fydy/raw/master/:path*"
+    }
+  ]
+}
